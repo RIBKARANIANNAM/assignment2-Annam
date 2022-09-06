@@ -27,4 +27,4 @@ Jamaica Station operates the E,F,J,&Z subway lines.</li>
 <li> The Crown Inn</li>
 </ul>
 
-![Aboutme link]https://github.com/RIBKARANIANNAM/assignment2-Annam/blob/0fd7c89f1816823c1b5bb1e3c096d4699a43acc1/AboutMe.md
+![Aboutme link]https://github.com/RIBKARANIANNAM/assignment2-Annam/blob/35f6ac7fbcc4b27d20883eb7b7c15057db9e1417/AboutMe.md
