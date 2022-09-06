@@ -15,10 +15,10 @@ you will take the AitTrain from Terminal 4 a total of 5 stops before getting to 
 Jamaica Station operates the E,F,J,&Z subway lines.
 At jamica Station,you will transfer to the next train which will get you to Atlantic Terminal which you can either get off here if your Brooklyn destination is close or Q subway lines to get you to your final destination.
 The total length of this from JFK to Brooklyn is approximately 40- 50 minutes including transfers.
-*Brooklyn Botanic Garden    
-*Grand Army Plaza
-*Prospect Park
-*Soldiers and Sailors Memorial Arch
-*The Way station
-*the Crown Inn
+* Brooklyn Botanic Garden    
+* Grand Army Plaza
+* Prospect Park
+* Soldiers and Sailors Memorial Arch
+* The Way station
+* the Crown Inn
 
