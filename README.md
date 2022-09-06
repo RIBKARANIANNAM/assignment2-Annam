@@ -19,12 +19,12 @@ Jamaica Station operates the E,F,J,&Z subway lines.</li>
 <li>The total length of this from JFK to Brooklyn is approximately 40- 50 minutes including transfers.</li>
 </ol>
 <ul>
-<li>* Brooklyn Botanic Garden </li>   
-<li>* Grand Army Plaza</li>
-<li>* Prospect Park</li>
-<li>* Soldiers and Sailors Memorial Arch</li>
-<li>* The Way station</li>
-<li>* the Crown Inn</li>
+<li> Brooklyn Botanic Garden </li>   
+<li> Grand Army Plaza</li>
+<li> Prospect Park</li>
+<li> Soldiers and Sailors Memorial Arch</li>
+<li> The Way station</li>
+<li> The Crown Inn</li>
 </ul>
 
 ![Aboutme link]https://github.com/RIBKARANIANNAM/assignment2-Annam/blob/9c7b0834803fda6294c262c1654cc5af759f7f6d/AboutMe.md
