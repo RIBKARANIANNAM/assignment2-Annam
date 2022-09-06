@@ -41,10 +41,10 @@ List of Visiting Places In USA
 
 ## Pithy Quotes
 >
-    *"'author'"*:"Elon Musk",
+    *"`author`"*:"Elon Musk",
     "quote":"I would like to die on Mars.Just not on impact."
 >>    
-    *"'author'"*:"Emo Philips"
+    *"`author`"*:"Emo Philips"
     "quote":"I was the kid next door's imaginary friend."
     
 
