@@ -28,3 +28,20 @@ Jamaica Station operates the E,F,J,&Z subway lines.</li>
 </ul>
 
 ![Aboutme link]https://github.com/RIBKARANIANNAM/assignment2-Annam/blob/35f6ac7fbcc4b27d20883eb7b7c15057db9e1417/AboutMe.md
+
+## Table Creation For Visiting Places
+|            ||Visiting Places||            |
+|-------------||-------------||-------------|
+|City         ||Location     ||Visiting Time|
+|-------------||-------------||-------------|
+|Chicago      ||Downtown     ||6Hours       |
+|St.Louis     ||Arch         ||1Hour        |
+|Newyork      ||Liberty      ||3Hours       |
+|New jersey   ||Manhattan    ||1Hour        |
+
+
+
+
+
+
+
