@@ -39,7 +39,15 @@ List of Visiting Places In USA
 |Newyork      |Liberty        |3Hours       |
 |New jersey   |Manhattan      |1Hour        |
 
-
+## Pithy Quotes
+[
+    {"_author_":"Elon Musk",
+    "quote":"I would like to die on Mars.Just not on impact."
+    },
+    {"_author_":"Emo Philips"
+    "quote":"I was the kid next door's imaginary friend."
+    }
+]
 
 
 
