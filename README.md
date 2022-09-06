@@ -32,7 +32,6 @@ Jamaica Station operates the E,F,J,&Z subway lines.</li>
 ## Table Creation For Visiting Places
 |              Visiting Places              |
 |-------------|---------------|-------------|
-                                          
 |City         |Location       |Visiting Time|
 |-------------|---------------|-------------|
 |Chicago      |Downtown       |6Hours       |
