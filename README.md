@@ -44,6 +44,32 @@ List of Visiting Places In USA
 
 >I was the kid next door's imaginary friend.-*Emo Philips*
 
+## code snippet
+>How to position the angular material tabs edge to edge inside the angular material dialog in mobile view?
+>
+[Source of Question](https://stackoverflow.com/questions/73637692/how-to-position-the-angular-material-tabs-edge-to-edge-inside-the-angular-materi)
+```
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+```
+[Source for code Snippet](https://css-tricks.com/snippets/sass/deep-getset-maps/)
+
+
+
 
 
 
